@@ -1,3 +1,6 @@
+Ia usada: Geminis 
+
+
 # Validador de Formulario de Contacto - TypeScript
 
 [cite_start]Este proyecto contiene el desarrollo del **Primer Examen Parcial** para la carrera de **Programación Dispositivos Móviles (2° Año)** en el **ISFT N°220 - AMET**[cite: 1, 2, 3].
